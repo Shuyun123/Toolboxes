@@ -5,7 +5,7 @@
 #### 1.SuperClipboard
 
 
-Copyright (c) 2025–{{year}} 本人 保留所有权利
+Copyright (c) 2026 本人 保留所有权利
 
 本仓库仅为软件介绍与用户问题反馈渠道，无任何开源代码。
 
