@@ -2,7 +2,10 @@
 
 ## 工具软件盒子
 
-#### 1.SuperClipboard
+### 1.SuperClipboard
+
+[超级剪贴板工具](./SuperClipboard/README.md)
+
 
 
 Copyright (c) 2026 本人 保留所有权利
