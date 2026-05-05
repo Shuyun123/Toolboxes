@@ -4,7 +4,7 @@
 
 ### 1.SuperClipboard
 
-[超级剪贴板工具](./SuperClipboard/README.md)
+[超级剪贴板工具](https://github.com/Shuyun123/SuperClipboard/blob/main/README.md)
 
 
 
